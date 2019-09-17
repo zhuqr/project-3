@@ -1,0 +1,35 @@
+{
+  "name": "get_picture",
+  "version": "1.2.0",
+  "description": "get pictures what you want.",
+  "main": "src/index.js",
+  "bin": {
+    "gp": "bin/gp"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1eeing/get_picture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1eeing/get_picture/issues"
+  },
+  "keywords": [
+    "puppeteer",
+    "commander",
+    "inquirer",
+    "getPictures"
+  ],
+  "homepage": "https://github.com/1eeing/get_picture#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0",
+    "puppeteer": "^1.9.0",
+    "tinify": "^1.6.0-beta.2"
+  }
+}

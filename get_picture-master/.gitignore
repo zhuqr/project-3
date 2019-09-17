@@ -1,0 +1,4 @@
+node_modules/
+output/*
+!output/.gitkeeper
+directoryList.md
